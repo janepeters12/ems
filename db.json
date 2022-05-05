@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 13,
+      "fullName": "Jane Peter",
+      "department": "Software Development",
+      "employeeNumber": "123",
+      "email": "jane@gmail.com",
+      "phoneNumber": "8790"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
